@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "наследование классов", "наследование классов\наследование классов.vcxproj", "{F227B024-1C33-446F-A585-26D194EF351C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F227B024-1C33-446F-A585-26D194EF351C}.Debug|x64.ActiveCfg = Debug|x64
+		{F227B024-1C33-446F-A585-26D194EF351C}.Debug|x64.Build.0 = Debug|x64
+		{F227B024-1C33-446F-A585-26D194EF351C}.Debug|x86.ActiveCfg = Debug|Win32
+		{F227B024-1C33-446F-A585-26D194EF351C}.Debug|x86.Build.0 = Debug|Win32
+		{F227B024-1C33-446F-A585-26D194EF351C}.Release|x64.ActiveCfg = Release|x64
+		{F227B024-1C33-446F-A585-26D194EF351C}.Release|x64.Build.0 = Release|x64
+		{F227B024-1C33-446F-A585-26D194EF351C}.Release|x86.ActiveCfg = Release|Win32
+		{F227B024-1C33-446F-A585-26D194EF351C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {217C0C59-126F-4F52-83D0-07D87440E733}
+	EndGlobalSection
+EndGlobal
