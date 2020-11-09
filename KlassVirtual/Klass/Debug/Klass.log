@@ -1,0 +1,6 @@
+﻿  Klass.cpp
+C:\Users\Никита\source\repos\Klass\Klass\Klass.cpp(17,27): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Никита\source\repos\Klass\Klass\Klass.cpp(26,27): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Никита\source\repos\Klass\Klass\Klass.cpp(33,22): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Никита\source\repos\Klass\Klass\Klass.cpp(41,25): warning C4305: аргумент: усечение из "double" в "float"
+  Klass.vcxproj -> C:\Users\Никита\source\repos\Klass\Debug\Klass.exe
